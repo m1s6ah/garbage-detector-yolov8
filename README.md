@@ -1,1 +1,0 @@
-"# garbage-detector-yolov8" 
